@@ -6,10 +6,10 @@
 
 ## Results
 
-| Simulation |
+Simulation
 <video muted controls width=380> <source src="1.mp4"  type="video/mp4"> </video>
 
-| Real-world |
+Real-world
 <video muted controls width=380> <source src="2.mp4"  type="video/mp4"> </video>  
 
 
